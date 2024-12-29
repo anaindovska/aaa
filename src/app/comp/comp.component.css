@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+
+.begin{
+    background-color: lightcoral;
+}
+.adv{
+    background-color: lightblue;
+}
+.lun{
+    background-color: lightgreen;
+}
+
+.kopce{
+    background-color: aquamarine;
+    border-radius: 5px;
+    width: 100%;
+}
